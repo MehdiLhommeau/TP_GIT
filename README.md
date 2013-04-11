@@ -57,4 +57,5 @@ Liste des étudiants ayant réussi ce TP
 * Vincent GILBERT & * Tanguy MOREAU,
 * Thomas POHU & Antoine SECHET & Arnaud PIHOURS,
 * Gaetan Derobert & Mathieu BEUREMILA,
-* Nicolas Menard & Aurelien Adam.
+* Nicolas Menard & Aurelien Adam,
+* Victor DURAND (lebogossdu49).
